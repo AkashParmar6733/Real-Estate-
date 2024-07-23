@@ -2,6 +2,7 @@
 
 
 **Overview:**
+
 The Real Estate Management System is a web-based application designed to streamline property management processes for real estate agencies, agents, and property owners. Built using PHP for server-side scripting, HTML for front-end design, and SQL for database management, this system provides a comprehensive platform to list, manage, and search properties efficiently.
 
 
